@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 38.03 38.29">
+  <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 8)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        isolation: isolate;
+        opacity: .8;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="st0" x="10.2" y="29.26" width="8.54" height="8.53"/>
+    <path class="st0" d="M18.25,29.76v7.52h-7.54v-7.52h7.54M19.25,28.76h-9.54v9.52h9.53v-9.52h.01Z"/>
+  </g>
+  <g>
+    <image class="st1" width="29" height="29" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAeCAYAAADQBxWhAAAACXBIWXMAAAsSAAALEgHS3X78AAACJ0lEQVRIieWW3W7bMAxGjzrnd0GGrtj7P2FRtE2cxHGqXfijTcly2mAbcjEBhGGL0tFHibTgDi3c4hxjnPQPIcQ/hmaA3M+/57D+fWohRaiAwfnkNhpSMIBYAo8mcMAAPBQsBxvko2CxBE6gDmiAb0CVmfVZM0Cb2cXDPbi6orAC5rKFbCYzxabwLDvJGlkrH2KM/R73UNdM4RxYAmvgu55LfTfFprABjkAN7PWEIfQXD8ihuco1sHW2AVbqM2gDHIAd8KYFo74kxCVoHtqFFG6BJ9kPfVto8ovCuQde6UKPvlvIWzd3Mbw51JQ+Ab/03EqtQQ9SONcctrcHupDb/vetgqQQeOiMbg83UmjgRy3GoLUWCF2od8C7xtveB+OEEGJJqYFnWv3KhfkR+ClopdAtNfYkxbbn/pSPlTqgV+sP1EKTrWUbB0VhXMnPn+6HbN7JlPGL8EXCzBcKm8P357BRuwb1pe3izCoOpNXHbJQi16DRPX1paxhOY82whxbeWnZgqEZtAV7MU+vwpc0Sf093SOyUHklP74v69/JvNP6D9K8zQEMIUWljwFaDjnQp8MqQhyfKefosv53GWWHo1U7VXg89ScUbQ6VpnOJSRXpWf63vCbQUXh/a1k1mtfQsFZ/VXgtzDr26p/4A2d/CFL3z9b+MP1CTSq1ZijTu/Sw1t/5PLYWSdpebw/3vSAWw+fzb22AGnvL7+/feLy4kneiGG/7/034DOrw+YhgtBbcAAAAASUVORK5CYII="/>
+    <g>
+      <rect class="st0" x="10.2" y="10.46" width="8.54" height="8.54"/>
+      <path class="st0" d="M18.25,10.96v7.53h-7.54v-7.53h7.54M19.25,9.96h-9.54v9.53h9.53v-9.53h.01Z"/>
+    </g>
+  </g>
+  <g>
+    <rect class="st0" x="28.99" y="10.46" width="8.54" height="8.54"/>
+    <path class="st0" d="M37.03,10.96v7.53h-7.53v-7.53h7.53M38.03,9.96h-9.53v9.53h9.53v-9.53Z"/>
+  </g>
+  <g>
+    <rect class="st0" x="28.99" y="29.26" width="8.54" height="8.53"/>
+    <path class="st0" d="M37.03,29.76v7.52h-7.53v-7.52h7.53M38.03,28.76h-9.53v9.52h9.53v-9.52Z"/>
+  </g>
+</svg>

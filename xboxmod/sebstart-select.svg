@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 67.41 33.21">
+  <!-- Generator: Adobe Illustrator 29.7.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 8)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #a2def9;
+      }
+
+      .st1 {
+        fill: #39c6f4;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Menu_Pressed">
+    <path class="st1" d="M66.91,16.6c0,8.89-7.21,16.1-16.1,16.1s-16.1-7.21-16.1-16.1S41.92.5,50.81.5c8.89,0,16.09,7.21,16.1,16.1Z"/>
+    <g>
+      <rect class="st0" x="43.61" y="11.98" width="14.36" height="1.55"/>
+      <rect class="st0" x="43.61" y="15.9" width="14.36" height="1.55"/>
+      <rect class="st0" x="43.61" y="19.71" width="14.36" height="1.53"/>
+    </g>
+  </g>
+  <g id="Switcher_PRessed">
+    <path class="st1" d="M32.71,16.6c0,8.9-7.2,16.11-16.1,16.12-8.9,0-16.11-7.2-16.12-16.1C.48,7.72,7.69.51,16.59.5c0,0,0,0,0,0,8.89-.01,16.1,7.18,16.11,16.07,0,.01,0,.02,0,.03Z"/>
+    <g>
+      <polygon class="st0" points="14.09 16.5 11.06 16.5 11.06 12.72 16.53 12.72 16.53 14.04 18.33 14.04 18.33 10.98 9.44 10.98 9.44 18.37 14.09 18.37 14.09 16.5"/>
+      <path class="st0" d="M14.84,14.66v7.59h9v-7.59h-9ZM22,20.45h-5.47v-3.95h5.47v3.95Z"/>
+    </g>
+  </g>
+</svg>
